@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "autoscroll-react": "^3.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "easytimer.js": "^3.0.0",
