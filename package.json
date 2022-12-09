@@ -22,7 +22,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "easytimer.js": "^3.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mysql2": "^1.6.4",
     "sequelize": "^4.42.0",
     "styled-components": "^4.1.3"
